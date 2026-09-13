@@ -25,11 +25,12 @@
 Yapay zeka odaklı kurumsal evrim yaklaşımımız ve tümleşik sektörel bakış açımızla; şirketlerin operasyonel verimliliklerini artıran, mevzuat ve regülasyonlara %100 uyumlu, güvenli ve sürdürülebilir dijital sistemler kuruyoruz.
 
 ### Odak Alanlarımız:
+* **Yönetilen BT Hizmetleri (MSP) & 7/24 Proaktif Sistem Yönetimi**
 * **Sıfır Güven (Zero-Trust) Siber Savunma & SOC Hizmetleri**
-* **GİB Onaylı VUK-507 Yeni Nesil Akıllı POS ve Kiosk Çözümleri**
-* **Açık Bankacılık ve Finansal Entegrasyon Boru Hatları**
+* **Sektörel Yapay Zeka (AI) ve Özel Yazılım Geliştirme**
+* **e-Dönüşüm ve Kurumsal Çözümler (FinTek, ERP ve Süreç Entegrasyonları)**
 * **zFactory Endüstriyel IoT ve Akıllı Üretim Yönetimi**
-* **Kurumsal E-Posta Altyapısı ve Otonom Bulut İş Sürekliliği**
+* **Otonom Bulut Altyapısı, İş Sürekliliği ve Kurumsal E-Posta**
 
 ---
 
