@@ -54,7 +54,7 @@ Her türlü proje talebi, teknoloji ortaklığı ve kurumsal iş birlikleri içi
 * 🐙 **GitHub:** [github.com/zetuteknoloji](https://github.com/zetuteknoloji)
 * ✉️ **Genel İletişim:** [iletisim@zetuteknoloji.com](mailto:iletisim@zetuteknoloji.com)
 * 🔬 **Ar-Ge & Mühendislik:** [arge@zetuteknoloji.com](mailto:arge@zetuteknoloji.com)
-* 📍 **Lokasyon:** Türkiye - Ethiopia
+* 📍 **Lokasyon:** Türkiye
 
 ---
 
